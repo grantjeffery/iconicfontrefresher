@@ -33,9 +33,14 @@ html {
 
 }
 
+a {
+	text-decoration: none;
+}
+
 i{ 
 	color: "#A83535";
 	vertical-align: middle;
 	}
+
 
 
