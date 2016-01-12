@@ -12,23 +12,26 @@ html {
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
 	font-family: sans-serif;
-	background-color: "#0F0F0F";
 }
 
 *, *:before, *:after {
 	box-sizing: inherit;
 }
 
+body {
+	background-color: 0F0F0F;
+}
+
 h1 {
 	font-family: 'Vollkorn', serif;
-	color: "#A83535";
+	color: A83535;
 	text-transform: uppercase;
 
 }
 
 h2 {
 	font-family: 'Vollkorn', serif;
-	color: "#A83535";
+	color: A83535;
 	text-transform: uppercase;
 
 }
@@ -37,10 +40,23 @@ a {
 	text-decoration: none;
 }
 
+
+.flex {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.img-flex {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
 i{ 
-	color: "#A83535";
+	color: #A83535;
 	vertical-align: middle;
-	}
+}
 
 
 
