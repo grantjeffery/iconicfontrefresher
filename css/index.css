@@ -19,19 +19,19 @@ html {
 }
 
 body {
-	background-color: 0F0F0F;
+	background-color: #0F0F0F;
 }
 
 h1 {
 	font-family: 'Vollkorn', serif;
-	color: A83535;
+	color: #A83535;
 	text-transform: uppercase;
 
 }
 
 h2 {
 	font-family: 'Vollkorn', serif;
-	color: A83535;
+	color: #A83535;
 	text-transform: uppercase;
 
 }
