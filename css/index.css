@@ -31,7 +31,13 @@ h1 {
 }
 
 .masthead {
-	margin-top: 5em;
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+
+.line {
+	border-top: solid;
+    color: #A83535;
 }
 
 h2 {
