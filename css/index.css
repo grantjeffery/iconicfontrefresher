@@ -28,7 +28,10 @@ h1 {
 	font-family: 'Vollkorn', serif;
 	color: #A83535;
 	text-transform: uppercase;
+}
 
+.masthead {
+	margin-top: 5em;
 }
 
 h2 {
