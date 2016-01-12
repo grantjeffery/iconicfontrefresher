@@ -20,12 +20,14 @@ html {
 
 body {
 	background-color: #0F0F0F;
+	padding-left: 10%;
+	padding-right: 10%;
 }
 
 h1 {
 	font-family: 'Vollkorn', serif;
 	color: #A83535;
-	text-align: auto;
+	font-size: 4em;
 	text-transform: uppercase;
 
 }
@@ -42,6 +44,15 @@ a {
 	text-decoration: none;
 }
 
+.island {
+	 border-radius: 15px;
+}
+
+.island:hover { 
+    border: solid;
+    color: #A83535;
+    z-index:1;
+}
 
 .flex {
     display: block;
@@ -55,11 +66,10 @@ a {
     margin: 0 auto;
 }
 
+
 i{
 	font-size: 4em;
 	color: #A83535;
-	vertical-align: middle;
-
 }
 
 p{
@@ -67,10 +77,17 @@ p{
 	color: #fff;
 }
 
-.overlay {
-	display: relative;
-	z-index: 1;
-	bottom: 6em;
+.overlay2 {
+	position: relative;
 }
+
+.overlay {
+	width: 100%;
+	position: absolute;
+	z-index: 1;
+	bottom: -.5em;
+
+}
+
 
 
