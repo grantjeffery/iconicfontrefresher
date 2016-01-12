@@ -19,14 +19,14 @@ html {
 	box-sizing: inherit;
 }
 
-.h1 {
+h1 {
 	font-family: 'Vollkorn', serif;
 	color: "#A83535";
 	text-transform: uppercase;
 
 }
 
-.h2 {
+h2 {
 	font-family: 'Vollkorn', serif;
 	color: "#A83535";
 	text-transform: uppercase;
