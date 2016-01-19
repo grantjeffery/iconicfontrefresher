@@ -56,7 +56,7 @@ a {
     border: solid;
     color: #A83535;
     z-index:1;
-    transition: all 10ms ease-in-out;
+    transition: all 10s ease-in-out;
 }
 
 .flex {
