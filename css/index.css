@@ -50,13 +50,13 @@ a {
 
 .island {
 	 border-radius: 15px;
-	 transition: all 10ms ease-in-out;
 }
 
 .island:hover { 
     border: solid;
     color: #A83535;
     z-index:1;
+    transition: all 10ms ease-in-out;
 }
 
 .flex {
